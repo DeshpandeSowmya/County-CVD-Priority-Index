@@ -1,0 +1,11 @@
+fips,state_abbr,state_name,county_name,priority_score,priority_rank,priority_tier
+22035,LA,Louisiana,East Carroll,3.336775284214338,1,Very High
+02158,AK,Alaska,Kusilvak,3.1447910030601793,2,Very High
+28055,MS,Mississippi,Issaquena,2.8183492930951335,3,Very High
+28063,MS,Mississippi,Jefferson,2.805363154619343,4,Very High
+46102,SD,South Dakota,Oglala Lakota,2.785809581225406,5,Very High
+46121,SD,South Dakota,Todd,2.7062976102698557,6,Very High
+28021,MS,Mississippi,Claiborne,2.651682823077798,7,Very High
+47095,TN,Tennessee,Lake,2.626904995269349,8,Very High
+28053,MS,Mississippi,Humphreys,2.3921425059307024,9,Very High
+48427,TX,Texas,Starr,2.3264708653210926,10,Very High
