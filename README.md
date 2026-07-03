@@ -214,21 +214,6 @@ Rather than claiming causality, the dashboard serves as a **descriptive screenin
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── Dashboard/
-├── Data_processed/
-├── Data_raw/
-├── Docs/
-├── Outputs/
-├── R Scripts/
-├── SQL/
-└── README.md
-
----
-
 **## Tableau Dashboard**
 Tableau Public Link: https://public.tableau.com/app/profile/sowmya.deshpande8412/viz/County_CVD_Priority_Dashboard/Dashboard1?publish=yes
 
