@@ -232,4 +232,5 @@ Tableau Public Link: https://public.tableau.com/app/profile/sowmya.deshpande8412
 
 Created by **Sowmya Deshpande**
 Healthcare Data Analyst | Public Health Analytics | R • SAS • SQL • Power BI • Excel • Tableau | Population Health | Survey Analytics | Healthcare Business Intelligence | NYC DOHMH
+
 [LinkedIn](www.linkedin.com/in/sowmyadeshpande) | [GitHub](https://github.com/DeshpandeSowmya)
